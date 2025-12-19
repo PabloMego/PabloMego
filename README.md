@@ -29,7 +29,6 @@
   </p>
   <p align="center">
     <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white" alt="Adobe Creative Cloud" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" alt="Unity" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VSCode" height="30" />
