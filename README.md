@@ -12,14 +12,14 @@
   <li> 📺 Actualmente viendo <b>Mob Psycho 100</b></li>
   <li> 🔭 Actualmente trabajando en <b>proyectos personales</b></li>
   <li> 🎮 Actualmente jugando <b>Cyberpunk 2077</b></li>
-  <li> 🤔 Buscando ayuda para <b>convertirme en Microsoft MVP</b></li>
+  <li> 🤔 Buscando ayuda para <b>convertirme en ingeniero de software</b></li>
   <li> 📫 Cómo contactarme: <b>medinagonzalezpablo@gmail.com</b></li>
 </ul>
 
 
 <div align="center">
-    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
+    <h1 align="center">𝗘𝗦𝗖𝗨𝗖𝗛𝗔𝗡𝗗𝗢</h1>
+    <a href="https://open.spotify.com/playlist/1pFJxI5QglwfLv5zWm62su?si=e754aab2025c43be" alt="𝗟𝗢 𝗤𝗨𝗘 𝗘𝗦𝗖𝗨𝗖𝗛𝗢" target="_blank" class="auto" rel="noopener noreferrer"/></a>
 </div>
 
 
