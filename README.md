@@ -1,12 +1,12 @@
 
-<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
+<h1 align="center">💠 Karko 👋¡Soy Pablo Medina Gonzalez! 💠</h1>
 <div align="center">
   <img width="720" height="auto" src=Add-ons/FSN.gif>
 </div>
 
 <br>
 
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1> 
 
 <ul>
   <li> 📺 Currently watching <b>86 Eighty Six</b></li>
