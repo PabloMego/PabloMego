@@ -67,6 +67,5 @@
 
 <h1 align="center"></h1>
 
-[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
 
               
