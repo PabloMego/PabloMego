@@ -6,15 +6,16 @@
 
 <br>
 
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1> 
+<h1 align="center">𝗦𝗢𝗕𝗥𝗘 𝗠𝗜</h1> 
 
 <ul>
-  <li> 📺 Currently watching <b>86 Eighty Six</b></li>
-  <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
-  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
-  <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
-  <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
+  <li> 📺 Actualmente viendo <b>Mob Psycho 100</b></li>
+  <li> 🔭 Actualmente trabajando en <b>proyectos personales</b></li>
+  <li> 🎮 Actualmente jugando <b>Cyberpunk 2077</b></li>
+  <li> 🤔 Buscando ayuda para <b>convertirme en Microsoft MVP</b></li>
+  <li> 📫 Cómo contactarme: <b>medinagonzalezpablo@gmail.com</b></li>
 </ul>
+
 
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
