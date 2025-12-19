@@ -58,7 +58,7 @@
   </a>
 
   <br>
-  <img src="Add-ons/SAO_K.gif" width="400" height="auto">
+  <img src="https://i.imgur.com/gP8oV0j.gif" width="400" height="auto">
 </div>
 
 
