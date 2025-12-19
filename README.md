@@ -60,12 +60,8 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src="Add-ons/SAO_K.gif" width="400" height="auto">
 </div>
 
 
-<h1 align="center"></h1>
-
-[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
 
               
