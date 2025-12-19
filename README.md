@@ -59,9 +59,6 @@
   <a href="https://github.com/PabloMego">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://discord.gg/pablo_mego_">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
   <br>
   <img src="Add-ons/SAO_K.gif" width="400" height="auto">
 </div>
