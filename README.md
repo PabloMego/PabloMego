@@ -43,10 +43,10 @@
 
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 <div align="center">
-  <a href="https://github.com/PabloMego/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=j0shbl0ck&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
+  <a href="https://github.com/PabloMego/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=PabloMego&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
 </div>
 <div align="center">
-  <a href="https://github.com/PabloMego/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0shbl0ck&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
+  <a href="https://github.com/PabloMego/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMego&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
 </div>
 
 <br>
