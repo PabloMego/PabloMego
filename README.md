@@ -1,7 +1,7 @@
 
 <h1 align="center">💠 Karko 👋¡Soy Pablo Medina Gonzalez! 💠</h1>
 <div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
+  <img width="720" height="auto" src=https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybmg0YW5seWgwOTlpMHhpdHoxd3g1MTA5YmhyMDRhenFmdDM3bmlyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ubLIcHvitTa36/giphy.gif>
 </div>
 
 <br>
