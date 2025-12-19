@@ -9,9 +9,9 @@
 <h1 align="center">𝗦𝗢𝗕𝗥𝗘 𝗠𝗜</h1> 
 
 <ul>
-  <li> 📺 Actualmente viendo <b>Mob Psycho 100</b></li>
+  <li> 📺 Anime Favorito <b>Mob Psycho 100</b></li>
   <li> 🔭 Actualmente trabajando en <b>proyectos personales</b></li>
-  <li> 🎮 Actualmente jugando <b>Cyberpunk 2077</b></li>
+  <li> 🎮 Juevo favorito <b>Cyberpunk 2077</b></li>
   <li> 🤔 Buscando ayuda para <b>convertirme en ingeniero de software</b></li>
   <li> 📫 Cómo contactarme: <b>medinagonzalezpablo@gmail.com</b></li>
 </ul>
@@ -36,7 +36,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Cyberpunk_2077-ED1C24?style=flat-square&logo=Cyberpunk-2077&logoColor=white" alt="Cyberpunk 2077" height="30" />
   </p>
-  <img src="Add-ons/AS.gif" width="460px" height="auto" align="center">
+  <img src="https://i.makeagif.com/media/5-26-2019/SJlvrS.gif" width="460px" height="auto" align="center">
 </div>
 
 <br>
