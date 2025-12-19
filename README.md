@@ -53,18 +53,19 @@
 
 <h1 align="center">𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦 𝗬 𝗪𝗘𝗕</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  <a href="https://konostudio.es/">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://github.com/j0shbl0ck">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/PabloMego">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
-  <a href="https://discord.gg/Hatman77#8963" >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/pablo_mego_">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src=Add-ons/SAO_K.gif width="400" height="auto">
+  <img src="Add-ons/SAO_K.gif" width="400" height="auto">
 </div>
+
 
 <h1 align="center"></h1>
 
