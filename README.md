@@ -33,8 +33,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" alt="VSCode" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Cyberpunk_2077-ED1C24?style=flat-square&logo=Cyberpunk-2077&logoColor=white" alt="Cyberpunk 2077" height="30" />
+
   </p>
   <img src="https://i.makeagif.com/media/5-26-2019/SJlvrS.gif" width="460px" height="auto" align="center">
 </div>
