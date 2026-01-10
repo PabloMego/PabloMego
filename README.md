@@ -40,12 +40,6 @@
 
 <br>
 
-<h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
-<div align="center">
-  <a href="https://github.com/PabloMego/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMego&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
-</div>
-
-<br>
 
 <h1 align="center">𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦 𝗬 𝗪𝗘𝗕</h1>
 <div align="center">
