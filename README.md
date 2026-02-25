@@ -10,7 +10,7 @@
 
 <ul>
   <li> 🔭 Actualmente trabajando como <b>Freelance</b></li>
-  <li>Impulsor y mente detrás de <b>Kono Studio</b></li>
+  <li>🚀Impulsor y mente detrás de <b>Kono Studio</b></li>
   <li> 📫 Cómo contactarme: <b>graphickono@gmail.com</b></li>
 </ul>
 
@@ -66,7 +66,7 @@
   </a>
 
   <br>
-  <img src="https://i.imgur.com/gP8oV0j.gif" width="400" height="auto">
+  <img src="imgs/img_3.jpg" width="720px" height="auto">
 </div>
 
 
