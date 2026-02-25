@@ -10,7 +10,7 @@
 
 <ul>
   <li> 🔭 Actualmente trabajando como <b>Freelance</b></li>
-  <li> 📫 Cómo contactarme: <b>medinagonzalezpablo@gmail.com</b></li>
+  <li> 📫 Cómo contactarme: <b>graphickono@gmail.com</b></li>
 </ul>
 
 
