@@ -26,10 +26,10 @@
     Estudiante y desarrollador freelance apasionado por la programación, la edición de video y la tecnología, trabajando en proyectos personales y explorando nuevas herramientas.<br>
   </p>
   <p align="center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_After_Effects-CF96FD?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="After Effects" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Premiere" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_After_Effects-CF96FD?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Premiere" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
