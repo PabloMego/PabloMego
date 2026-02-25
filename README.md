@@ -10,6 +10,7 @@
 
 <ul>
   <li> 🔭 Actualmente trabajando como <b>Freelance</b></li>
+  <li>Impulsor y mente detrás de <b>Kono Studio</b></li>
   <li> 📫 Cómo contactarme: <b>graphickono@gmail.com</b></li>
 </ul>
 
@@ -45,7 +46,19 @@
 <h1 align="center">𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦 𝗬 𝗪𝗘𝗕</h1>
 <div align="center">
   <a href="https://konostudio.es/">
-    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kono_Studio-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://www.instagram.com/kono_studio_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://twitter.com/Kono_Studio">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://www.facebook.com/people/Pablo-Mego/pfbid024zNfeKrijPKhPfqJMRfEvRyiAhXpqtWk9exj37kXr43AJwi7rDzHcV1HZMkwF7Enl/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://www.tiktok.com/@kono_studio">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <a href="https://github.com/PabloMego">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" rel="noopener noreferrer">
