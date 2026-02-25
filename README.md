@@ -66,7 +66,7 @@
   </a>
 
   <br>
-  <img src="imgs/img_3.jpg" width="720px" height="auto">
+  <img src="imgs/img_3.jpg" width="720px" height="auto" style="margin-top: 20px;">
 </div>
 
 
