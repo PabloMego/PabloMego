@@ -66,7 +66,9 @@
   </a>
 
   <br>
-  <img src="imgs/img_3.jpg" width="720px" height="auto" style="margin-top: 20px;">
+  <div style="padding-top: 30px;">
+    <img src="imgs/img_3.jpg" width="720px" height="auto">
+  </div>
 </div>
 
 
