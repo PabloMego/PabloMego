@@ -37,7 +37,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Docker_(básico)-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker (básico)" height="30" />
   </p>
-  <img src="imgs/Img_2.jpg" width="460px" height="auto" align="center">
+  <img src="imgs/Img_2.jpg" width="720px" height="auto" align="center">
 </div>
 
 <br>
