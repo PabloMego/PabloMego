@@ -23,7 +23,7 @@
 </div>
 <div align="center">
   <p align="center">
-    Estudiante y desarrollador freelance apasionado por la programación, la edición de video y la tecnología, trabajando en proyectos personales y explorando nuevas herramientas.<br>
+    Estudiante y desarrollador freelance apasionado por la programación, la edición de video y la tecnología, trabajando como freelance y en proyectos personales, explorando nuevas herramientas.<br>
   </p>
   <p align="center">
     <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" height="30" />
