@@ -26,6 +26,10 @@
     Estudiante y desarrollador freelance apasionado por la programación, la edición de video y la tecnología, trabajando en proyectos personales y explorando nuevas herramientas.<br>
   </p>
   <p align="center">
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_After_Effects-CF96FD?style=flat-square&logo=adobe-after-effects&logoColor=white" alt="After Effects" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" alt="Premiere" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
@@ -47,7 +51,7 @@
 <h1 align="center">𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦 𝗬 𝗪𝗘𝗕</h1>
 <div align="center">
   <a href="https://konostudio.es/">
-    <img src="https://img.shields.io/badge/Página_Web_Kono_Studio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Página_Web_Kono_Studio-4CAF50?style=for-the-badge&logo=icloud&logoColor=white" height="40" target="_blank" rel="noopener noreferrer">
   </a>
   <a href="https://www.instagram.com/kono_studio_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer">
