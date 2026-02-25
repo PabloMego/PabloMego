@@ -11,7 +11,7 @@
 <ul>
   <li> 🔭 Actualmente trabajando como <b>Freelance</b></li>
   <li>🚀Impulsor y mente detrás de <b>Kono Studio</b></li>
-  <li> 📫 Cómo contactarme: <b>graphickono@gmail.com</b></li>
+  <li> 📫 Cómo contactarme: <b>konostudio.es@gmail.com</b></li>
 </ul>
 
 
